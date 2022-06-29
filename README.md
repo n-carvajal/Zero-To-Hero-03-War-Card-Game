@@ -1,8 +1,9 @@
 # Zero To Hero
 
-## Project 3: War Card Game
+## Project 3: War Card Game (Simulation)
 
 War is a simple single deck, two player card game where the goal of the game is to be the first player to win all 52 cards in the deck.
+This program will simulate the moves for both players.
 
 ### Rules
 
